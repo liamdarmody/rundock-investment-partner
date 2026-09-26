@@ -1,0 +1,13 @@
+{
+  "name": "rundock-investment-partner",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "An investment dashboard for Rundock: portfolio and allocation, a risk control panel and a decision board on one pinned note, with the agents and skill that work on it",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
