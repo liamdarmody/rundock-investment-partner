@@ -2,7 +2,7 @@
 
 An investment dashboard on one note you pin: your portfolio and its allocation, a risk control panel, and a decision board, with a risk check across all of them, and three agents that research and stress-test positions against your limits. One package, installed from one link.
 
-This is the Investment Partner Hub reference plugin from issue #199, rebuilt on what Rundock ships in 0.15.0. [CHANGES.md](CHANGES.md) lists every change from the original and the rule that required it.
+This is the Investment Partner Hub reference plugin from [rundock#199](https://github.com/liamdarmody/rundock/issues/199), rebuilt on what Rundock ships in 0.15.0. [CHANGES.md](CHANGES.md) lists every change from the original and the rule that required it.
 
 ## What you get
 
@@ -20,7 +20,7 @@ The notes, agents and skills become ordinary files in your workspace, yours to r
 
 ## Needs
 
-Rundock 0.15.0 or later: the dashboard is built from Rundock UI (the component library Rundock injects into every extension frame), named sources (a note hands its view the files it lists) and ask (a click in the view drafts a message to an agent). The install refuses the extension on a Rundock that does not provide the Rundock UI `1.0` it was built against.
+[Rundock](https://github.com/liamdarmody/rundock) 0.15.0 or later: the dashboard is built from Rundock UI (the component library Rundock injects into every extension frame), named sources (a note hands its view the files it lists) and ask (a click in the view drafts a message to an agent). The install refuses the extension on a Rundock that does not provide the Rundock UI `1.0` it was built against.
 
 ## Install
 
@@ -113,8 +113,8 @@ node scripts/check-version.js v1.0.0
 
 ## Credits
 
-Designed and first built by Doug Seven as the Investment Partner Hub (issue #199): the agents, the review sequence, the portfolio math, the data shapes and the dashboard this package draws. Rebuilt for Rundock's shipped contract with him as co-author.
+Designed and first built by @dougseven as the Investment Partner Hub ([rundock#199](https://github.com/liamdarmody/rundock/issues/199)): the agents, the review sequence, the portfolio math, the data shapes and the dashboard this package draws. Rebuilt for Rundock's shipped contract with him as co-author.
 
 ## Licence
 
-MIT, copyright Liam Darmody and Doug Seven. See `LICENSE`.
+MIT, copyright @liamdarmody and @dougseven. See `LICENSE`.
