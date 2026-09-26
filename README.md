@@ -113,8 +113,8 @@ node scripts/check-version.js v1.0.0
 
 ## Credits
 
-Designed and first built by @dougseven as the Investment Partner Hub ([rundock#199](https://github.com/liamdarmody/rundock/issues/199)): the agents, the review sequence, the portfolio math, the data shapes and the dashboard this package draws. Rebuilt for Rundock's shipped contract with him as co-author.
+Designed and first built by [@dougseven](https://github.com/dougseven) as the Investment Partner Hub ([rundock#199](https://github.com/liamdarmody/rundock/issues/199)): the agents, the review sequence, the portfolio math, the data shapes and the dashboard this package draws. Rebuilt for Rundock's shipped contract with him as co-author.
 
 ## Licence
 
-MIT, copyright @liamdarmody and @dougseven. See `LICENSE`.
+MIT, copyright [@liamdarmody](https://github.com/liamdarmody) and [@dougseven](https://github.com/dougseven). See `LICENSE`.
